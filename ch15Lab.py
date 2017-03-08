@@ -21,7 +21,7 @@ file.close()
 
 print("---LINEAR SEARCH---")
 file = open("AliceInWonderLand.txt", "r")
-'''
+
 wrong = []
 line_number = 0
 for line in file:
@@ -44,7 +44,7 @@ for line in file:
          #   i += 1
         #if dict_list[i] != key:
          #   wrong.append(key)
-'''
+
 
 
 print("---Binary Search---")

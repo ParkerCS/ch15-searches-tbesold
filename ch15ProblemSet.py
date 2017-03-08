@@ -1,3 +1,5 @@
+# Nice Solutions!
+
 '''
 Complete the following 3 searching problems using techniques
 from class and from Ch15 of the textbook website
